@@ -2,4 +2,6 @@ ABV RESOLUSI
 - Konsisten untuk belajar selama 1 jam sehari
 - Konsisten untuk mencatat hasil belajar
 - Konsisten untuk mencatan semua pengeluaran
-- Membuat dashboard kpi dengan mengukanan python
+- Merapikan database local mysql
+- Membuat pipelining data kpi huawei
+- Membuat pipelining data kpi zte
