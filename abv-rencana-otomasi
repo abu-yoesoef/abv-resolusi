@@ -1,3 +1,4 @@
 Rencana otomasi data:
 - otomasi pipelining data kpi huawei
+  * membuat script pyhon untuk mengolah data csv dari MAE, transform kemudian masukkan ke database mysql
 - otomasi pipelining data kpi zte
